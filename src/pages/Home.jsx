@@ -16,7 +16,7 @@ import { SearchContext } from '../App';
 const visibleItemsCount = 8;
 
 const Home = () => {
-  const arr = 1;
+  const arr1 = 1;
   const dispatch = useDispatch();
   const navigate = useNavigate();
   const isSearch = useRef(false);
